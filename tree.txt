@@ -1,0 +1,33 @@
+
+|--config
+|  |--sofa.config.js
+|  |--webpack.config.js
+|  |--tsconfig.json
+|  |--tslint.json
+|--public
+|--scripts
+|  |--start.js
+|  |--deploy.js
+|  |--test.js
+|--src
+|  |--index.tsx
+|  |--config
+|  |--images
+|  |--utils
+|  |--theme
+|  |--passport
+|  |--components
+|  |--containers
+|     |--UserManage
+|     |--AuthManage
+|     |--Example1
+|     |--Example2
+|--i18n
+|  |--en-US.json
+|  |--zh-CN.json
+|--node_modules
+|--package.json
+|--README.md
+
+
+
